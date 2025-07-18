@@ -1,2 +1,12 @@
-# Basic_django_blog
-A simple and beginner-friendly blog application built with Django. Includes features like post and basic user information.
+# Basic Django Blog
+
+A simple and beginner-friendly blog application built using the Django web framework.  
+This project is ideal for those who want to learn the basics of Django, including:
+
+- Creating and displaying blog posts
+- Using Django templates and models
+
+## 🔧 Tech Stack
+- Python 3.x
+- Django 4.x
+- HTML, CSS (basic styling)
